@@ -1,0 +1,26 @@
+{
+  "name": "generate-rsa",
+  "version": "1.0.0",
+  "description": "generate public & private key pair",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksympogonets/generate-rsa.git"
+  },
+  "keywords": [
+    "rsa",
+    "node"
+  ],
+  "author": "maksympogonets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maksympogonets/generate-rsa/issues"
+  },
+  "homepage": "https://github.com/maksympogonets/generate-rsa#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
